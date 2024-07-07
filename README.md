@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-This is a modern expense tracking application built with Next.js, Neon, and Clerk. It allows users to easily track and manage their expenses . Its a part of Brad Travery's Nextjs course and i was doing some skills refresh
+This is a modern expense tracking application built with Next.js, Neon, and Clerk. It allows users to easily track and manage their expenses . Its a part of Brad Travery's Nextjs course and i was doing some skills refreshment
 
 ## Features
 
